@@ -1,0 +1,6 @@
+{
+  "name": "Astro Quest - 3D Space Adventure for Kids",
+  "description": "An interactive 3D animated space exploration and astronaut training adventure for kids with missions, mini-games, and Cosmo the AI Space Buddy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
